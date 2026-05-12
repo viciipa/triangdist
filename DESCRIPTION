@@ -1,0 +1,10 @@
+Package: triangdist
+Title: Triangular Distribution Functions
+Version: 0.1.0
+Authors@R: person("Víctor", "Íñigo Palomo", email = "viciipa@alumni.uv.es", role = c("aut", "cre"))
+Description: Provides density, distribution, quantile and random generation for the triangular distribution.
+License: MIT + file LICENSE
+Imports: stats
+Suggests: testthat, covr, lintr
+RoxygenNote: 7.3.3
+Encoding: UTF-8
